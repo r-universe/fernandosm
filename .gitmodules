@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hybridModels"]
+	path = hybridModels
+	url = https://github.com/fernandosm/hybridmodels
+	shallow = true
+	registered = true
